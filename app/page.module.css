@@ -1,0 +1,25 @@
+@media (max-width: 1100px) {
+  .search {
+    margin-left: 200px !important;
+  }
+}
+@media (max-width: 930px) {
+  .search {
+    margin-left: 100px !important;
+    margin-right: 0px !important;
+  }
+}
+@media (max-width: 750px) {
+  .box {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    width: 100% !important;
+  }
+  .search {
+    margin-left: 0px !important;
+    width: 100% !important;
+  }
+}
+.box {
+  background-color: antiquewhite;
+}
